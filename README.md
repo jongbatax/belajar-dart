@@ -1,2 +1,2 @@
 # belajar-dart
-Belajar Pemrograman Dart
+Belajar Pemrograman Dart Berbahasa Indonesia Beserta Challange.
